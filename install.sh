@@ -6,4 +6,4 @@ curl -1sLf 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt' | sudo 
 sudo apt update
 sudo apt install caddy -y
 
-echo 'Cadddy was successfully installed'
+echo 'Caddy was successfully installed'
